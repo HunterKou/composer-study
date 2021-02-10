@@ -1,11 +1,11 @@
 {
-    "name": "hunter/composer-study",
+    "name": "hunterKou/composer-study",
     "description": "study composer",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "hunter",
+            "name": "hunterKou",
             "email": "hunterkou@163.com"
         }
     ],

@@ -1,0 +1,14 @@
+{
+    "name": "hunter/composer-study",
+    "description": "study composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hunter",
+            "email": "hunterkou@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
